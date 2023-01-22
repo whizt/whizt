@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there my name is Hansen 👋
+
+## 🚀 About Me
+I'm an aspiring Computer Science Student
+- 🔭 I’m currently working on a Mobile App Project 
+- 🌱 I’m currently learning Mobile Development and Machine Learning
 
 <!--
 **whizt/whizt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
