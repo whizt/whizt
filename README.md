@@ -4,6 +4,9 @@
 - 🍀 I'm an aspiring Computer Science Student
 - 🔭 I’m currently working on a Mobile App Project 
 - 🌱 I’m currently learning Mobile Development and Machine Learning
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hansen-andersen-6a0488221/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersenhansen/)
 
 <!--
 **whizt/whizt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
