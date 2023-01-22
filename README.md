@@ -23,6 +23,7 @@
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 <!--
 **whizt/whizt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
