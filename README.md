@@ -1,4 +1,6 @@
 ### Hello there my name is Hansen 👋
+<!-- For GitHub statistics -->
+<img src="https://komarev.com/ghpvc/?username=Matthew-Eucaristo&color=orange" alt="GitHub Visitor Count">
 
 ## 🚀 About Me
 - 🍀 I'm an aspiring Computer Science Student
