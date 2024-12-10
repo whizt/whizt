@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 - 🍀 I'm an aspiring Computer Science Student
-- 🔭 I’m currently working on a Mobile App Project 
-- 🌱 I’m currently learning Mobile Development and Machine Learning
+- 🔭 I’m currently working on a Web App Project 
+- 🌱 I’m currently learning Web Development and React Libraries
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zheng-hansen/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersenhansen/)
